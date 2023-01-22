@@ -18,11 +18,13 @@ public class day4 {
 	}
 	
 	
+	
 	@Test(groups={"Smoke"})
 	public void MobileLoginHomeLoan()
 	{
 		//Appium
 		System.out.println("MobileloginHome");
+		System.out.println("firstbranch change Appium");
 	}
 	
 	@Test
